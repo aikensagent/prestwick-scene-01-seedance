@@ -1,0 +1,70 @@
+SCENE 1 — FOYER OPEN
+4 Prestwick Court  |  Houndslake Villas  |  Aiken, SC
+
+========================================
+FILES IN THIS FOLDER
+========================================
+Image1-ROU-wave.jpg                 upload first     her face + the wave
+Image2-ROU-stand.jpg                upload second    same woman, identity lock
+Image3-ROU-welcome.jpg              upload third     same woman, identity lock
+Image4-FOYER.jpg                    upload fourth    the real foyer (the SET)
+OPTIONAL-Keyframe-first-frame.jpg   later only       approved still of her IN this foyer
+INSTRUCTIONS.txt                    this notepad
+
+========================================
+RUNWAY SETUP
+========================================
+1. Open Runway.
+2. Left sidebar: Tool.
+3. Top: Video.
+4. Model dropdown: Seedance 2.5.
+5. Tab: Reference.  (not Agent, not Keyframe yet)
+6. Settings bar:
+      16:9
+      720p          (1080p only after 720p looks like her)
+      10 seconds
+      Audio ON      if she should speak on camera
+      Audio OFF     if you will add voice later
+
+========================================
+UPLOAD ORDER  (left to right)
+========================================
+@Image 1   Image1-ROU-wave.jpg
+@Image 2   Image2-ROU-stand.jpg
+@Image 3   Image3-ROU-welcome.jpg
+@Image 4   Image4-FOYER.jpg
+
+Do not load the other listing photos. These four only.
+
+========================================
+PASTE THIS PROMPT
+========================================
+Photoreal live-action real-estate video, 16:9, 10 seconds. One continuous locked-off shot.
+
+@Image 1 is ROU: her exact face, long wavy blonde hair, cream dress, dark green blazer, the wave. Ignore the gray studio background.
+@Image 2 and @Image 3 are the same woman only — identity lock. Ignore their studio backgrounds.
+@Image 4 is the location: this vacant foyer. White 9-lite front door, stained-glass sidelights, beige walls, white trim, parquet floor, crystal ceiling fixture, open bedroom door on the right. Keep this architecture exactly. Do not redesign the room. Do not add furniture, rugs, or plants.
+
+ROU stands a step inside the foyer, slightly camera-right, so the front door and sidelights stay fully visible over her left shoulder. She looks at camera, waves once, then holds a warm, unhurried greeting. One person only. Camera locked. No pan, no zoom. Soft daylight from the door glass. No on-screen text, no subtitles.
+
+She says: "Hi — I'm ROU. If you're watching this, you're standing in — or thinking about — 4 Prestwick Court, in Houndslake Villas, Aiken."
+
+Audio: her voice and quiet room tone only. No music.
+
+========================================
+IF SOMETHING IS WRONG
+========================================
+Face is not hers     do not keep it. Same four stills. Generate again.
+Room changes         keep this line: "@Image 4 is the set."
+1080p                only after 720p looks like her.
+
+========================================
+KEYFRAME (optional, second pass)
+========================================
+When you have a still that is clearly HER in this foyer:
+  First Video Frame  = that still  (or OPTIONAL-Keyframe-first-frame.jpg)
+  Last Video Frame   = her still in the same spot, hand down
+  Prompt: she finishes the wave, holds eye contact, delivers the greeting.
+          Keep identity and room from the first frame. Camera locked.
+
+Do not use an empty foyer as the last frame — she will disappear.
