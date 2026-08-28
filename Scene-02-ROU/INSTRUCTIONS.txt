@@ -1,0 +1,46 @@
+SCENE 2 — GREAT ROOM
+ROU is already standing in the room. Do not recast her.
+
+========================================
+FILES
+========================================
+FIRST-FRAME-great-room.jpg   First Video Frame     her on the right, fireplace visible
+LAST-FRAME-great-room.jpg    Last Video Frame      same woman, a small step into the room
+ALT-fireplace.jpg            optional still        closer to the fireplace
+ROU-identity-foyer.jpg       extra identity        her face from Scene 1
+SET-great-room-empty.jpg     the empty set         only if asked for a location still
+INSTRUCTIONS.txt             this notepad
+
+========================================
+RUNWAY
+========================================
+Tool → Video → Seedance 2.5 → KEYFRAME
+(not Reference, not Agent)
+
+First Video Frame:  FIRST-FRAME-great-room.jpg
+Last Video Frame:   LAST-FRAME-great-room.jpg
+Settings: 16:9 · 720p · 10 seconds
+Audio ON if she speaks.
+
+========================================
+PASTE THIS PROMPT
+========================================
+Photoreal video, 16:9, 10 seconds. One locked-off shot.
+
+The woman in the first frame IS ROU. Keep her exact face, dark hair, navy dress, and pearl necklace. Do not recast. Do not change her clothes.
+
+This is the great room: vaulted ceiling, fireplace, burgundy drapes, sliders to the trees, beige carpet. Keep this architecture. Do not add furniture.
+
+She takes a small step into the room from the first frame toward the last frame, looks at camera, a small open-hand gesture toward the fireplace and sliders. Small motion only. Camera locked. No pan, no zoom. One person only. No text on screen.
+
+She says: "Come through here. This is the great room — vaulted ceiling, a real fireplace, and those sliders opening to the trees. This is where the house takes a breath."
+
+Pronounce Prestwick as PRESS-wick if it comes up. Speak clearly, not rushed.
+Audio: her voice and quiet room tone only. No music.
+
+========================================
+DO NOT
+========================================
+Use Reference with studio shots. That recasts her.
+Use an empty room as the last frame. She will vanish.
+Accept a different woman. If the face is not FIRST-FRAME, throw it out.
