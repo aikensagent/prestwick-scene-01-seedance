@@ -1,0 +1,74 @@
+SCENE 2 — GREAT ROOM
+4 Prestwick Court  |  Houndslake Villas  |  Aiken, SC
+Follows Scene 1 (foyer). Same woman. New room.
+
+========================================
+FILES IN THIS FOLDER
+========================================
+Image1-ROU-stand.jpg                upload first     her face + standing pose
+Image2-ROU-welcome.jpg              upload second    same woman, identity lock
+Image3-ROU-wave.jpg                 upload third     same woman, identity lock
+Image4-GREAT-ROOM.jpg               upload fourth    the real great room (the SET)
+OPTIONAL-Keyframe-first-frame.jpg   later only       her standing IN this room
+INSTRUCTIONS.txt                    this notepad
+
+========================================
+RUNWAY SETUP
+========================================
+1. Open Runway.
+2. Left sidebar: Tool.
+3. Top: Video.
+4. Model dropdown: Seedance 2.5.
+5. Tab: Reference.  (not Agent, not Keyframe yet)
+6. Settings bar:
+      16:9
+      720p          (1080p only after 720p looks like her)
+      10 seconds
+      Audio ON      if she should speak on camera
+      Audio OFF     if you will add voice later
+
+Use a NEW generation. Do not extend Scene 1 into this room.
+
+========================================
+UPLOAD ORDER  (left to right)
+========================================
+@Image 1   Image1-ROU-stand.jpg
+@Image 2   Image2-ROU-welcome.jpg
+@Image 3   Image3-ROU-wave.jpg
+@Image 4   Image4-GREAT-ROOM.jpg
+
+These four only. Do not load Scene 1 stills or the other listing photos.
+
+========================================
+PASTE THIS PROMPT
+========================================
+Photoreal live-action real-estate video, 16:9, 10 seconds. One continuous locked-off shot.
+
+@Image 1 is ROU: her exact face, long wavy blonde hair, cream dress, dark green blazer, standing pose. Ignore the gray studio background.
+@Image 2 and @Image 3 are the same woman only — identity lock. Ignore their studio backgrounds.
+@Image 4 is the location: this vacant great room. Vaulted ceiling, sage walls, brass fireplace with black surround, burgundy drapes, sliding doors to the deck and trees, beige carpet, open doorway to the sunroom on the right. Keep this architecture exactly. Do not redesign the room. Do not add furniture, rugs, or plants.
+
+ROU stands on the carpet in the right third of the frame so the fireplace and sliders stay fully visible. She faces camera, a small open-hand gesture toward the room, warm and unhurried. One person only. Camera locked. No pan, no zoom. Soft daylight from the sliders. No on-screen text, no subtitles.
+
+She says: "Come through here. This is the great room — vaulted ceiling, a real fireplace, and those sliders opening to the trees. This is where the house takes a breath."
+
+Audio: her voice and quiet room tone only. No music.
+
+========================================
+IF SOMETHING IS WRONG
+========================================
+Face is not hers     do not keep it. Same four stills. Generate again.
+Room changes         keep this line: "@Image 4 is the set."
+She blocks the fire  she belongs on the right, fireplace stays in frame.
+1080p                only after 720p looks like her.
+
+========================================
+KEYFRAME (optional, second pass)
+========================================
+When you have a still that is clearly HER in this great room:
+  First Video Frame  = that still  (or OPTIONAL-Keyframe-first-frame.jpg)
+  Last Video Frame   = her still in the same spot, a slight turn toward the sliders
+  Prompt: she gestures toward the fireplace and sliders, holds eye contact, delivers the line.
+          Keep identity and room from the first frame. Camera locked.
+
+Do not use an empty room as the last frame — she will disappear.
