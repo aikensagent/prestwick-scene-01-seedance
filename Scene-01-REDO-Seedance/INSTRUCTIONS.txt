@@ -1,0 +1,57 @@
+SCENE 1 REDO — FOYER  (KEYFRAME, not Reference)
+They recast her on Reference. Do not use Reference for this take.
+Keyframe starts on OUR still of YOUR girl. That is the lock.
+
+========================================
+FILES IN THIS FOLDER
+========================================
+FIRST-FRAME-wave.jpg     First Video Frame     her waving in THIS foyer
+LAST-FRAME-stand.jpg     Last Video Frame      same girl, same spot, hand down
+Image1-ROU-wave.jpg      extra identity         studio wave
+Image2-ROU-stand.jpg     extra identity         studio stand
+Image3-ROU-welcome.jpg   extra identity         studio welcome
+Image4-FOYER.jpg         the empty set          only if it asks for a location still
+INSTRUCTIONS.txt         this notepad
+
+========================================
+RUNWAY SETUP
+========================================
+1. Tool → Video → Seedance 2.5
+2. Tab: KEYFRAME   (not Reference, not Agent, not Edit)
+3. First Video Frame:  FIRST-FRAME-wave.jpg
+4. Last Video Frame:   LAST-FRAME-stand.jpg
+5. Settings:  16:9 · 720p · 10 seconds
+6. Audio ON if she speaks. OFF if you VO later.
+
+Optional: still add Image1, Image2, Image3 as references IF the Keyframe
+screen lets you attach extra images. If it only takes first + last, that is enough.
+
+========================================
+PASTE THIS PROMPT
+========================================
+Photoreal live-action, 16:9, 10 seconds. One locked-off shot.
+
+The woman in the first frame IS ROU. Keep her exact face, blonde hair, cream dress, and dark green blazer. Do not recast. Do not beautify. Do not change her into a different person.
+
+The room is this foyer: white 9-lite door, stained-glass sidelights, beige walls, parquet floor, crystal fixture. Keep this architecture. Do not add furniture or rugs.
+
+She is already standing in the foyer, slightly camera-right, doors visible over her shoulder. She finishes the wave from the first frame, lowers her hand, holds eye contact, and greets the camera. Small natural motion only. Camera locked. No pan, no zoom. Soft daylight from the door. One person only. No on-screen text.
+
+She says: "Hi — I'm ROU. If you're watching this, you're standing in — or thinking about — 4 Prestwick Court, in Houndslake Villas, Aiken."
+
+Audio: her voice and quiet room tone only. No music.
+
+========================================
+DO NOT
+========================================
+- Use Reference mode for this redo. That is what swapped her.
+- Use Agent.
+- Load 57 listing photos.
+- Use an empty foyer as the last frame. She will vanish.
+- Accept a different blonde. If the face moves off FIRST-FRAME, throw it out and generate again.
+
+========================================
+IF KEYFRAME STILL DRIFTS
+========================================
+Generate again with the same two frames. Do not "fix" her in Edit by describing a new woman.
+A usable take is: same face as FIRST-FRAME-wave.jpg, same foyer, arm goes from wave to rest, she speaks.
